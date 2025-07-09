@@ -1,4 +1,5 @@
 Started out of desperation, since I shorted out the factory board and couldn't get an replacement and there wasn't the budget or knowledge to switch to Klipper for that time. 
+So this was a budget rebuild with about 120€ in new parts. Of course it's more if you don't have the required tools
 
 Requires basic knowledge of electricity, crimping pliers, multimeter, cables, JST-XH 2.54 and PH2.0 connectors
 
