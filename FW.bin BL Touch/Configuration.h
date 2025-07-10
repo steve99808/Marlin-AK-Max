@@ -76,7 +76,7 @@
  */
 
 // Show the Marlin bootscreen on startup. ** ENABLE FOR PRODUCTION **
-#define EMPERORS_SLAVE
+#define AKMAX
 
 // Show the bitmap in Marlin/_Bootscreen.h on startup.
 //#define SHOW_CUSTOM_BOOTSCREEN
@@ -136,7 +136,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "EMPERORS SLAVE"
+#define CUSTOM_MACHINE_NAME "AKMAX"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
@@ -691,7 +691,7 @@
     #define DEFAULT_Kd  72.46
   #endif
 #else
-  #define BANG_MAX 255    // Limit hotend current while in bang-bang mode; 255=full current
+  #define BANG_MAX 280    // Limit hotend current while in bang-bang mode; 255=full current
 #endif
 
 /**
