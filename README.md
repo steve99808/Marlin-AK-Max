@@ -3,7 +3,7 @@ So this was a budget rebuild with about 120€ in new parts. Of course it's more
 
 Based on Marlin 2.1.2.4
 
-Requires basic knowledge of electricity, crimping pliers, multimeter, cables, JST-XH 2.54 and PH2.0 connectors
+Requires basic knowledge of electricity, crimping pliers, multimeter, cables, JST-XH 2.54 and PH2.0 connectors <hr>
 
 The parts I went with: <br>
 <a href="https://biqu.equipment/de/collections/control-board/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3" target="blank"> Bigtreetech SKR Mini E3V3 </a> <br>
@@ -20,10 +20,10 @@ List of the STL files for my build:
 <a href="https://www.printables.com/model/1283225-clockwork-2-nema-17-last-version-stealthburner" target="blank"> Clockwork NEMA17</a> <br>
 <a href="https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote" target="blank"> Stealthburner for Bambulab Hotend </a> <br>
 
-
+<hr>
 
 The biggest issue was the display, since the E3V3 board only has one EXP port for connecting the display. So custom rewiring is necessary if you really want to use this certain type of display. I'd reccomend the <a href="https://biqu.equipment/de/collections/lcd-screen/products/tft24v1-1-gd-version" target="blank"> TFT24 </a>  or <a href="https://biqu.equipment/de/collections/lcd-screen/products/btt-tft35-e3-v3-0-display-touch-screen-two-working-modes" target="blank"> TFT35 </a> to spare you some headache.
 For wiring up the motherboard please refer to the pinout from Bigtreetech. I personally recrimped all cables since the board is mostly used for Creality 3D printers and their stepper motors are wired different to the ones from Anycubic. So a Multimeter tool is a must for it. 
 
-
-Edit: Discontinued for now since I switched to Klipper with a different board. 
+<hr>
+<h4>Edit: Discontinued for now since I switched to Klipper with a different board. </h4>
