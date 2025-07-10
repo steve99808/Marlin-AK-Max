@@ -6,7 +6,7 @@ Based on Marlin 2.1.2.4
 Requires basic knowledge of electricity, crimping pliers, multimeter, cables, JST-XH 2.54 and PH2.0 connectors <hr>
 
 The parts I went with: <br>
-<a href="https://biqu.equipment/de/collections/control-board/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3" target="blank"> Bigtreetech SKR Mini E3V3 </a> <br>
+<a href="https://biqu.equipment/de/collections/control-board/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3" target="blank" rel="noopener noreferrer" > Bigtreetech SKR Mini E3V3 </a> <br>
 <a href="https://biqu.equipment/de/collections/lcd-screen/products/bigtreetech-mini12864-v2-0-lcd-screen-rgb-backlight-mini-display-supports-marlin-diy-for-skr-3d-printer-part-1" target="blank"> BTT Mini 12846 Display </a>  <br>
 <a href="https://de.aliexpress.com/item/1005007804320392.html" target="blank"> Toolhead board since I later to switched it up to BL Touch later </a>  <br>
 Bambulab X1C Clone hotend from Aliexpress or Amazon <br>
