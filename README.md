@@ -9,7 +9,7 @@ BTT Mini 12846 Display  https://biqu.equipment/de/collections/lcd-screen/product
 Toolhead board since I later to switched it up to BL Touch in the future https://de.aliexpress.com/item/1005007804320392.html<br>
 Bambulab X1C Clone hotend from Aliexpress or Amazon <br>
 BL Touch https://biqu.equipment/de/collections/module-expansion-board/products/antclabs-bl-touch-v3-1-original-auto-leveling-sensor-premium-3d-kossel-printer-reprap-for-skr-v1-3-3d-printer-parts<br>
-
+If you're using a different adapter plate and leveling probe you might need to change the offset of certain probe in the Configuration.h file (NOZZLE_TO_PROBE_OFFSET Line 1516).
 
 Decided to switch the entire printhead out a Voron Stealthburner and a Clockwork 2 Extruder. Since it was all on a budget the CW2 is fitted for a Nema17 stepper motor. 
 List of the STL files for my build: 
@@ -23,6 +23,5 @@ Stealthburner for Bambulab Hotend https://www.printables.com/model/322091-voron-
 The biggest issue was the display, since the E3V3 board only has one EXP port for connecting the display. So custom rewiring is necessary if you really want to use this certain type of display. I'd reccomend the TFT24 or TFT35 to spare you some headache.
 For wiring up the motherboard please refer to the pinout from Bigtreetech. I personally recrimped all cables since the board is mostly used for Creality 3D printers and their stepper motors are wired different to the ones from Anycubic. So a Multimeter tool is a must for it. 
 
-Pictures of the build will follow in the future. 
 
 Edit: Discontinued for now since I switched to Klipper with a different board. 
