@@ -20,7 +20,7 @@ List of the STL files for my build:
 
 
 
-The biggest issue was the display, since the E3V3 board only has one EXP port for connecting the display. So custom rewiring is necessary if you really want to use this certain type of display. I'd reccomend the TFT24 or TFT35 to spare you some headache.
+The biggest issue was the display, since the E3V3 board only has one EXP port for connecting the display. So custom rewiring is necessary if you really want to use this certain type of display. I'd reccomend the <a href="https://biqu.equipment/de/collections/lcd-screen/products/tft24v1-1-gd-version" target="blank"> TFT24 </a>  or <a href="https://biqu.equipment/de/collections/lcd-screen/products/btt-tft35-e3-v3-0-display-touch-screen-two-working-modes" target="blank"> TFT35 </a> to spare you some headache.
 For wiring up the motherboard please refer to the pinout from Bigtreetech. I personally recrimped all cables since the board is mostly used for Creality 3D printers and their stepper motors are wired different to the ones from Anycubic. So a Multimeter tool is a must for it. 
 
 
