@@ -4,19 +4,19 @@ So this was a budget rebuild with about 120€ in new parts. Of course it's more
 Requires basic knowledge of electricity, crimping pliers, multimeter, cables, JST-XH 2.54 and PH2.0 connectors
 
 The parts I went with: <br>
-Bigtreetech SKR Mini E3V3 https://biqu.equipment/de/collections/control-board/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3 <br>
-BTT Mini 12846 Display  https://biqu.equipment/de/collections/lcd-screen/products/bigtreetech-mini12864-v2-0-lcd-screen-rgb-backlight-mini-display-supports-marlin-diy-for-skr-3d-printer-part-1<br>
-Toolhead board since I later to switched it up to BL Touch in the future https://de.aliexpress.com/item/1005007804320392.html<br>
+<a href="https://biqu.equipment/de/collections/control-board/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3" target="blank"> Bigtreetech SKR Mini E3V3 </a> <br>
+<a href="https://biqu.equipment/de/collections/lcd-screen/products/bigtreetech-mini12864-v2-0-lcd-screen-rgb-backlight-mini-display-supports-marlin-diy-for-skr-3d-printer-part-1" target="blank"> BTT Mini 12846 Display </a>  <br>
+<a href="https://de.aliexpress.com/item/1005007804320392.html" target="blank"> Toolhead board since I later to switched it up to BL Touch later </a>  <br>
 Bambulab X1C Clone hotend from Aliexpress or Amazon <br>
-BL Touch https://biqu.equipment/de/collections/module-expansion-board/products/antclabs-bl-touch-v3-1-original-auto-leveling-sensor-premium-3d-kossel-printer-reprap-for-skr-v1-3-3d-printer-parts<br>
-If you're using a different adapter plate and leveling probe you might need to change the offset of certain probe in the Configuration.h file (NOZZLE_TO_PROBE_OFFSET Line 1516).
+<a href="https://biqu.equipment/de/collections/module-expansion-board/products/antclabs-bl-touch-v3-1-original-auto-leveling-sensor-premium-3d-kossel-printer-reprap-for-skr-v1-3-3d-printer-parts" target="blank"> BL Touch </a> <br>
+If you're using a different adapter plate and leveling probe you might need to change the offset of certain probe in the Configuration.h file <i>(NOZZLE_TO_PROBE_OFFSET Line 1516)</i>.
 
 Decided to switch the entire printhead out a Voron Stealthburner and a Clockwork 2 Extruder. Since it was all on a budget the CW2 is fitted for a Nema17 stepper motor. 
 List of the STL files for my build: 
 
-Adapter plate for BL Touch https://www.printables.com/model/538165-stealthburner-adapter-for-kobra-max-and-vyper-volc?lang=de<br>
-Clockwork NEMA17 https://www.printables.com/model/1283225-clockwork-2-nema-17-last-version-stealthburner<br>
-Stealthburner for Bambulab Hotend https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote <br>
+<a href="https://www.printables.com/model/538165-stealthburner-adapter-for-kobra-max-and-vyper-volc?lang=de" target="blank"> Adapter plate for BL Touch</a> <br>
+<a href="https://www.printables.com/model/1283225-clockwork-2-nema-17-last-version-stealthburner" target="blank"> Clockwork NEMA17</a> <br>
+<a href="https://www.printables.com/model/322091-voron-stealthburner-printhead-for-bambu-x1cx1-hote" target="blank"> Stealthburner for Bambulab Hotend </a> <br>
 
 
 
